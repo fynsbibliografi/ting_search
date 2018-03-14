@@ -931,7 +931,7 @@ function ting_search_submit($form, &$form_state) {
     'language' => 'term.language',
     'type' => 'term.type',
     'source' => 'term.acSource',
-    'dk5' => 'facet.dk5',
+    'dk5' => 'dkcclterm.dk',
     'branch' => 'facet.branch',
     'department' => 'facet.department',
     'date' => 'term.date',
